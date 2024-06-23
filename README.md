@@ -19,7 +19,7 @@
 **HOW TO RUN** 
 - CLONE THİS REPO
 - RUN flutter pub get
-- RUN flutter run
+- RUN flutter run 
 
   
 **TO BE DONE IN POSSIBLE PROCESSES PLANNED UPDATES AND IMPROVEMENTS**
@@ -38,9 +38,9 @@ will be developed
 **TR** 
 
 **NASIL ÇALIŞIR**
--REPOYU KLONLAYIN 
--flutter run fonksiyonunu etkinleştirin 
--flutter run fonksiyonunu etkinleştirin 
+- REPOYU KLONLAYIN
+- flutter pub get fonksiyonunu etkinleştirin
+- flutter run fonksiyonunu etkinleştirin 
 
 
 **OLASI İLERLEYEN SÜREÇLERDE YAPILMASI PLANLANAN GÜNCELLEME VE İYİLEŞTİRMELER**
