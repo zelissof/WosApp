@@ -14,25 +14,40 @@
 ![Ekran görüntüsü 2024-06-23 170027](https://github.com/zelissof/WosApp/assets/120017515/19aa886f-cd36-460f-96f2-06edf60daf1a)
 
 
-ENG 
+**ENG**
 
+**HOW TO RUN** 
+- CLONE THİS REPO
+- RUN flutter pub get
+- RUN flutter run
 
-TO BE DONE IN POSSIBLE PROCESSES PLANNED UPDATES AND IMPROVEMENTS 
+  
+**TO BE DONE IN POSSIBLE PROCESSES PLANNED UPDATES AND IMPROVEMENTS**
 
-You can use SMS functions free of charge if you receive sponsor support and make it more accessible
-Failure to reach the user he/she wants to reach or after pressing the SOS button
-Not receiving a confirmation message or any interaction from the user for a certain period of time.In this case, the application directly dials 112.It will reach the user's application history and location data will be shared with 112.With the user chosen temporarily or indefinitely upon the user's request will be able to share its location live. This item will be highly preferred users choose whenever they feel unsafe.
+**1.** You can use SMS functions free of charge if you receive sponsor support and make it more accessible
+**2.** Failure to reach the user he/she wants to reach or after pressing the SOS button
+Not receiving a confirmation message or any interaction from the user for a certain period of time.In this case, the application directly dials 112.It will reach the user's application history and location data will be shared with 112. 
+**3.** With the user chosen temporarily or indefinitely upon the user's request will be able to share its location live. This item will be highly preferred users choose whenever they feel unsafe.
 By indicating to the person that he/she is there, in case of a possible situation, the location of the selected person
 The ability to share will be available
-Interface designs based on user feedback
+**4.** Interface designs based on user feedback
 will be developed 
 
 
 
-TR 
+**TR** 
 
-OLASI İLERLEYEN SÜREÇLERDE YAPILMASI PLANLANAN GÜNCELLEME VE İYİLEŞTİRMELER 
-Sponsor desteği alınması durumunda SMS fonksiyonlarının kullanımını ücretsiz ve kullanıma daha açık hale getirmek
-Ulaşmasını istediği kullaanıcıya ulaşamaması veya SOS butonuna bastıktan sonra belirli bir süre kullanıcıdan onay mesajı ya da herhangi bir etkileşim alınamaması durumunda uygulama direkt 112'ye ulaşacak ve kullanıcının uygulama geçmişi ve konumu verileri 112 ile paylaşılacaktır.
-Kullanıcının isteği dahilinde süreli ya da süresiz bir şekilde seçtiği kullanıcı ile
-konumunu canlı bir şekilde paylaşabilecektir.Bu maddenin çok tercih edileceğini düşünmekle beraber kullanıcıların kendini güvende hissetmediği her an seçtiği kişiye orda olduğunu belirterek olası bir durumda konumunu seçilen kişinin paylaşabilmesi özelliği sunulacak Kullanıcı geribildirimini baz alarak yapılan arayüz tasarımları geliştirilecek
+**NASIL ÇALIŞIR**
+-REPOYU KLONLAYIN 
+-flutter run fonksiyonunu etkinleştirin 
+-flutter run fonksiyonunu etkinleştirin 
+
+
+**OLASI İLERLEYEN SÜREÇLERDE YAPILMASI PLANLANAN GÜNCELLEME VE İYİLEŞTİRMELER**
+
+
+**1.** Sponsor desteği alınması durumunda SMS fonksiyonlarının kullanımını ücretsiz ve kullanıma daha açık hale getirmek
+**2.** Ulaşmasını istediği kullaanıcıya ulaşamaması veya SOS butonuna bastıktan sonra belirli bir süre kullanıcıdan onay mesajı ya da herhangi bir etkileşim alınamaması durumunda uygulama direkt 112'ye ulaşacak ve kullanıcının uygulama geçmişi ve konumu verileri 112 ile paylaşılacaktır.
+**3.** Kullanıcının isteği dahilinde süreli ya da süresiz bir şekilde seçtiği kullanıcı ile
+konumunu canlı bir şekilde paylaşabilecektir.Bu maddenin çok tercih edileceğini düşünmekle beraber kullanıcıların kendini güvende hissetmediği her an seçtiği kişiye orda olduğunu belirterek olası bir durumda konumunu seçilen kişinin paylaşabilmesi özelliği sunulacak
+**4.** Kullanıcı geribildirimini baz alarak yapılan arayüz tasarımları geliştirilecek
