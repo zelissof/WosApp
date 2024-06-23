@@ -1,5 +1,5 @@
 
-![Ekran görüntüsü 2024-06-23 165620](https://github.com/zelissof/WosApp/assets/120017515/722962b5-7e75-4421-b0af-d8355f11d4bf) 
+![Ekran görüntüsü 2024-06-23 173010](https://github.com/zelissof/WosApp/assets/120017515/6f3e14b2-78a9-4bfb-98d2-ab91e2b349a6)
 
 
 ![Ekran görüntüsü 2024-06-23 165920](https://github.com/zelissof/WosApp/assets/120017515/94e9588f-2790-4222-ac06-1ae4e8c210d1)
