@@ -14,40 +14,68 @@
 ![Ekran görüntüsü 2024-06-23 170027](https://github.com/zelissof/WosApp/assets/120017515/19aa886f-cd36-460f-96f2-06edf60daf1a)
 
 
-**ENG**
+# WOSAPP
 
-**HOW TO RUN** 
-- CLONE THİS REPO
-- RUN flutter pub get
-- RUN flutter run 
+## How to Run
 
-  
-**TO BE DONE IN POSSIBLE PROCESSES PLANNED UPDATES AND IMPROVEMENTS**
+1. Clone this repository:
+    sh
+    git clone <repository-url>
+    
+2. Navigate to the project directory:
+    sh
+    cd <project-directory>
+    
+3. Get the Flutter dependencies:
+    sh
+    flutter pub get
+    
+4. Run the project:
+    sh
+    flutter run
+    
 
-**1.** You can use SMS functions free of charge if you receive sponsor support and make it more accessible
-**2.** Failure to reach the user he/she wants to reach or after pressing the SOS button
-Not receiving a confirmation message or any interaction from the user for a certain period of time.In this case, the application directly dials 112.It will reach the user's application history and location data will be shared with 112. 
-**3.** With the user chosen temporarily or indefinitely upon the user's request will be able to share its location live. This item will be highly preferred users choose whenever they feel unsafe.
-By indicating to the person that he/she is there, in case of a possible situation, the location of the selected person
-The ability to share will be available
-**4.** Interface designs based on user feedback
-will be developed 
+## Planned Updates and Improvements
 
+1. *Free SMS Functions with Sponsor Support*: If sponsor support is obtained, the use of SMS functions will be made free and more accessible.
+2. *Automatic 112 Call for SOS Situations*: 
+    - If the user cannot reach their intended contact or no confirmation or interaction is received from the user within a certain period after pressing the SOS button, the application will automatically dial 112.
+    - The user's application history and location data will be shared with 112.
+3. *Live Location Sharing*: 
+    - Users will be able to share their live location temporarily or indefinitely with a chosen contact upon request.
+    - This feature is expected to be highly preferred by users whenever they feel unsafe, allowing them to indicate their presence to the chosen contact.
+4. *Interface Design Improvements*: Based on user feedback, interface designs will be developed and enhanced.
 
+---
 
-**TR** 
+# Proje Başlığı
 
-**NASIL ÇALIŞIR**
-- REPOYU KLONLAYIN
-- flutter pub get fonksiyonunu etkinleştirin
-- flutter run fonksiyonunu etkinleştirin 
+## Nasıl Çalışır
 
+1. Bu depoyu klonlayın:
+    sh
+    git clone <depo-url>
+    
+2. Proje dizinine gidin:
+    sh
+    cd <proje-dizini>
+    
+3. Flutter bağımlılıklarını yükleyin:
+    sh
+    flutter pub get
+    
+4. Projeyi çalıştırın:
+    sh
+    flutter run
+    
 
-**OLASI İLERLEYEN SÜREÇLERDE YAPILMASI PLANLANAN GÜNCELLEME VE İYİLEŞTİRMELER**
+## Olası İlerleyen Süreçlerde Yapılması Planlanan Güncelleme ve İyileştirmeler
 
-
-**1.** Sponsor desteği alınması durumunda SMS fonksiyonlarının kullanımını ücretsiz ve kullanıma daha açık hale getirmek
-**2.** Ulaşmasını istediği kullaanıcıya ulaşamaması veya SOS butonuna bastıktan sonra belirli bir süre kullanıcıdan onay mesajı ya da herhangi bir etkileşim alınamaması durumunda uygulama direkt 112'ye ulaşacak ve kullanıcının uygulama geçmişi ve konumu verileri 112 ile paylaşılacaktır.
-**3.** Kullanıcının isteği dahilinde süreli ya da süresiz bir şekilde seçtiği kullanıcı ile
-konumunu canlı bir şekilde paylaşabilecektir.Bu maddenin çok tercih edileceğini düşünmekle beraber kullanıcıların kendini güvende hissetmediği her an seçtiği kişiye orda olduğunu belirterek olası bir durumda konumunu seçilen kişinin paylaşabilmesi özelliği sunulacak
-**4.** Kullanıcı geribildirimini baz alarak yapılan arayüz tasarımları geliştirilecek
+1. *Sponsor Desteği ile Ücretsiz SMS Fonksiyonları*: Sponsor desteği alınması durumunda SMS fonksiyonlarının kullanımı ücretsiz ve daha erişilebilir hale getirilecektir.
+2. *SOS Durumları İçin Otomatik 112 Araması*:
+    - Kullanıcı, ulaşmak istediği kişiye ulaşamazsa veya SOS butonuna bastıktan sonra belirli bir süre içinde kullanıcıdan onay mesajı ya da herhangi bir etkileşim alınamazsa, uygulama doğrudan 112'yi arayacaktır.
+    - Kullanıcının uygulama geçmişi ve konum verileri 112 ile paylaşılacaktır.
+3. *Canlı Konum Paylaşımı*:
+    - Kullanıcı, isteği dahilinde süreli veya süresiz olarak seçtiği kişi ile konumunu canlı bir şekilde paylaşabilecektir.
+    - Bu özelliğin, kullanıcıların kendini güvende hissetmediği her an seçtiği kişiye orada olduğunu belirtmesi açısından çok tercih edileceği düşünülmektedir.
+4. *Kullanıcı Geri Bildirimine Dayalı Arayüz Tasarımı Geliştirmeleri*: Kullanıcı geri bildirimlerine dayalı olarak arayüz tasarımları geliştirilecek ve iyileştirilecektir.
